@@ -1,0 +1,86 @@
+[
+  {
+    "task_name": "Production reconciliation and raw material clearance",
+    "duration": "2 days",
+    "responsible_party": "Civil Team – Mr. Sharma",
+    "dependencies": "Must be completed before shutdown commences on 14th March"
+  },
+  {
+    "task_name": "Safety team inspection and permit preparation",
+    "duration": "1 day",
+    "responsible_party": "Safety Team – Ms. Patel",
+    "dependencies": "Can run parallel to civil pre-shutdown activities"
+  },
+  {
+    "task_name": "Refractory demolition and removal",
+    "duration": "3–4 days",
+    "responsible_party": "Civil Team – Mr. Sharma",
+    "dependencies": "Minimum 48 hours cooling time must be complete before demolition starts"
+  },
+  {
+    "task_name": "Electrical disconnect, switchgear and motor inspection",
+    "duration": "2–3 days",
+    "responsible_party": "Electrical Team – Mr. Anil Patel",
+    "dependencies": "Can run concurrent with refractory demolition"
+  },
+  {
+    "task_name": "Tuyere and blow pipe assembly removal and inspection",
+    "duration": "3 days",
+    "responsible_party": "Mechanical Team",
+    "dependencies": "Can start Day 2 after initial cooling"
+  },
+  {
+    "task_name": "New refractory installation (including curing)",
+    "duration": "10–12 days",
+    "responsible_party": "M/s Vesuvius India Limited (25–30 contract workers)",
+    "dependencies": "Refractory demolition must be complete"
+  },
+  {
+    "task_name": "Quality inspection at 50% refractory completion",
+    "duration": "Half day",
+    "responsible_party": "Quality Team – Mr. Deshmukh",
+    "dependencies": "Day 10 of refractory installation"
+  },
+  {
+    "task_name": "Final quality inspection of refractory",
+    "duration": "Half day",
+    "responsible_party": "Quality Team – Mr. Deshmukh",
+    "dependencies": "Day 16 of refractory installation"
+  },
+  {
+    "task_name": "Tuyere replacement and blow pipe refurbishment",
+    "duration": "5–6 days",
+    "responsible_party": "Mechanical Team",
+    "dependencies": "Can proceed during refractory curing phase (Days 14–17)"
+  },
+  {
+    "task_name": "Sensor and control system recalibration",
+    "duration": "3 days",
+    "responsible_party": "Instrumentation Team – Ms. Reddy",
+    "dependencies": "Starts Day 15"
+  },
+  {
+    "task_name": "Electrical reconnection and testing",
+    "duration": "1.5 days",
+    "responsible_party": "Electrical Team – Mr. A. Patel",
+    "dependencies": "Refractory installation complete; starts Day 17"
+  },
+  {
+    "task_name": "Safety systems verification",
+    "duration": "1 day",
+    "responsible_party": "Safety Team – Ms. Patel",
+    "dependencies": "Runs parallel to electrical reconnection"
+  },
+  {
+    "task_name": "Final walkdown inspection by all department heads",
+    "duration": "Half day",
+    "responsible_party": "All Department Heads + Plant Manager",
+    "dependencies": "Electrical reconnection and safety verification complete"
+  },
+  {
+    "task_name": "Hot commissioning – gradual heat-up and initial hot blast trial",
+    "duration": "2–3 days",
+    "responsible_party": "Chief Operations Officer – Mr. Venkatesh + Production Team",
+    "dependencies": "All pre-commissioning checks complete; Day 19"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "step_number": 1,
+    "action_description": "Apply for Confined Space Entry Permit minimum 24 hours before planned entry. Specify location, nature of work, estimated duration, and number of personnel entering.",
+    "responsible_role": "Maintenance Supervisor",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 2,
+    "action_description": "Conduct atmospheric testing using calibrated 4-gas monitor before entry permit is issued. Test for oxygen level (19.5–23.5%), flammable gases (<10% LEL), carbon monoxide (<35 ppm), and hydrogen sulphide (<10 ppm) at multiple levels (top, middle, bottom).",
+    "responsible_role": "Safety Officer",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 3,
+    "action_description": "If atmospheric testing shows deficiency, arrange forced ventilation using blowers. Maintain minimum 30 minutes continuous ventilation before re-testing. Continue ventilation throughout entry period.",
+    "responsible_role": "Safety Team",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 4,
+    "action_description": "Isolate and lockout all energy sources (electrical, pneumatic, hydraulic) that could affect the confined space. Physically disconnect hot blast valve. Apply lockout tags by authorised personnel only.",
+    "responsible_role": "Electrical Team",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 5,
+    "action_description": "Establish two-way radio or sound-powered telephone communication between entrant and standby person outside confined space. Mobile phones are not acceptable as the sole communication method.",
+    "responsible_role": "Maintenance Crew",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 6,
+    "action_description": "Stage rescue equipment at entry point including full body harness, retrieval line, rescue tripod with winch (if vertical entry), minimum 2 SCBA sets, first aid kit, and stretcher. Inspect and verify certification of all rescue equipment before use.",
+    "responsible_role": "Safety Team",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 7,
+    "action_description": "Conduct toolbox talk with all personnel explaining hazards, emergency procedures, and communication protocols. Issue Confined Space Entry Permit only after all preconditions are met. Permit is valid for a single shift only and must be renewed for extended work.",
+    "responsible_role": "Safety Officer",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 8,
+    "action_description": "Entrant wearing full body harness connected to retrieval line enters the space. Safety watchman maintains continuous visual or voice contact with entrant and must never enter the space to attempt rescue – must raise alarm and wait for rescue team.",
+    "responsible_role": "Entrant and Safety Watchman",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 9,
+    "action_description": "Re-test atmosphere every 2 hours during occupancy using calibrated 4-gas monitor. Any adverse atmospheric reading requires immediate evacuation and investigation before re-entry is permitted.",
+    "responsible_role": "Safety Officer",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 10,
+    "action_description": "On emergency alarm or communication loss, entrant evacuates immediately using retrieval line. Safety watchman raises alarm without entering the space. Emergency response team dons SCBA before any rescue attempt.",
+    "responsible_role": "All Personnel",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 11,
+    "action_description": "Verify all personnel and tools have exited confined space. Remove all temporary equipment, restore isolation points, and return completed permit to safety office with sign-off.",
+    "responsible_role": "Maintenance Supervisor",
+    "safety_critical": "Yes"
+  }
+]

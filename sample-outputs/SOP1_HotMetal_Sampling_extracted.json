@@ -1,0 +1,50 @@
+[
+  {
+    "step_number": 1,
+    "action_description": "Verify sampling equipment is ready – sample spoon, sample moulds, temperature probe, and PPE are in good condition. Equipment check must be completed before furnace tap begins.",
+    "responsible_role": "Sample Operator",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 2,
+    "action_description": "Coordinate with furnace tapper and confirm sampling point and timing. Notify quality laboratory that sample will be ready for collection in approximately 15 minutes.",
+    "responsible_role": "Shift Supervisor",
+    "safety_critical": "No"
+  },
+  {
+    "step_number": 3,
+    "action_description": "Wait until hot metal flow is steady (approximately 5 minutes after tap starts). Using long-handled sampling spoon, collect hot metal sample from runner stream and pour into prepared cast iron sample moulds (3 samples minimum). Maintain safe distance and avoid any water contact with hot metal.",
+    "responsible_role": "Sample Operator",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 4,
+    "action_description": "Immediately after taking sample, immerse calibrated immersion-type temperature probe into hot metal stream. Hold probe for 10 seconds minimum for accurate reading. Record temperature on sampling log sheet.",
+    "responsible_role": "Sample Operator",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 5,
+    "action_description": "Mark each sample mould with furnace number, tap number, date, time, and temperature whilst metal is still molten. Complete sampling log with all required information including operator name and supervisor signature.",
+    "responsible_role": "Sample Operator",
+    "safety_critical": "No"
+  },
+  {
+    "step_number": 6,
+    "action_description": "Repeat Steps 3–5 to collect mid-tap sample at the 20-minute mark. This provides a consistency check across the tap.",
+    "responsible_role": "Sample Operator",
+    "safety_critical": "Yes"
+  },
+  {
+    "step_number": 7,
+    "action_description": "Allow samples to cool in moulds for minimum 30 minutes. Once cooled and safe to handle, transfer samples to laboratory sample trolley. Notify laboratory that samples are ready for analysis.",
+    "responsible_role": "Sample Operator",
+    "safety_critical": "No"
+  },
+  {
+    "step_number": 8,
+    "action_description": "Inform quality laboratory supervisor of sample availability. Ensure all documentation is complete and accompanies samples.",
+    "responsible_role": "Shift Supervisor",
+    "safety_critical": "No"
+  }
+]

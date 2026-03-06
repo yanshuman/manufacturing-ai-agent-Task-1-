@@ -1,0 +1,74 @@
+[
+  {
+    "task_name": "Complete final heat and safely drain CCM-3",
+    "duration": "2 hours (0800–1000)",
+    "responsible_party": "Operations Team – Mr. Ravi",
+    "dependencies": "None (first activity of shutdown)"
+  },
+  {
+    "task_name": "Stage replacement tundish and refractory materials at CCM platform",
+    "duration": "2 hours (Friday evening)",
+    "responsible_party": "Stores Team – Mr. Ibrahim",
+    "dependencies": "Can begin Friday evening in parallel with production wind-down"
+  },
+  {
+    "task_name": "Crane operations – remove old tundish and place in scrap area",
+    "duration": "4 hours (1000–1400)",
+    "responsible_party": "Crane Team – Mr. Prasad (150T overhead crane)",
+    "dependencies": "SAFETY CRITICAL: Permit to Work must be in place; CCM drained"
+  },
+  {
+    "task_name": "Platform cleaning, inspection, and repairs",
+    "duration": "4 hours (1400–1800)",
+    "responsible_party": "Civil Team – Mr. Sharma",
+    "dependencies": "Old tundish removed"
+  },
+  {
+    "task_name": "New tundish installation and refractory lining (including drying)",
+    "duration": "12 hours (1800–0600)",
+    "responsible_party": "M/s Orient Refractories (refractory contractor)",
+    "dependencies": "Platform cleaning complete"
+  },
+  {
+    "task_name": "Quality inspection – refractory integrity check (2300hrs)",
+    "duration": "~30 minutes",
+    "responsible_party": "Quality Team – Mr. Deshmukh",
+    "dependencies": "Tundish installation at intermediate stage"
+  },
+  {
+    "task_name": "Quality inspection – final refractory integrity check (0500hrs)",
+    "duration": "~30 minutes",
+    "responsible_party": "Quality Team – Mr. Deshmukh",
+    "dependencies": "Tundish installation nearing completion"
+  },
+  {
+    "task_name": "Electrical connections and instrumentation checks for preheating burners",
+    "duration": "2 hours (0600–0800)",
+    "responsible_party": "Electrical Team – Mr. A. Patel",
+    "dependencies": "New tundish installed; starts 0600"
+  },
+  {
+    "task_name": "Preheating sequence – temperature curve monitoring and dry-out",
+    "duration": "6 hours minimum (0600–1200)",
+    "responsible_party": "Electrical Team – Mr. A. Patel",
+    "dependencies": "Burner connections complete"
+  },
+  {
+    "task_name": "Final commissioning checks – alignments, launder connections, stopper rod mechanisms",
+    "duration": "3 hours (1200–1500)",
+    "responsible_party": "Mechanical Team",
+    "dependencies": "Preheating sequence complete"
+  },
+  {
+    "task_name": "Safety team final walkdown and clearance certificate",
+    "duration": "1 hour",
+    "responsible_party": "Safety Team",
+    "dependencies": "Mechanical commissioning checks complete"
+  },
+  {
+    "task_name": "Water trials before production restart",
+    "duration": "Included in buffer (1600–2000)",
+    "responsible_party": "Operations Team",
+    "dependencies": "Safety clearance received"
+  }
+]
